@@ -1,0 +1,103 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200;400&display=swap");
+
+.formContainer {
+  margin-right: auto;
+  margin-left: auto;
+  width: 1000px;
+  background-color: #f2f5f5;
+  border-radius: 20px;
+  height: auto;
+  padding: 70px;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  text-align: center;
+  font-family: Arial;
+  font-weight: bolder;
+  color: #573cfa;
+}
+
+h3 {
+  text-align: center;
+  font-family: Arial;
+  font-weight: bolder;
+  color: #573cfa;
+}
+
+h2 {
+  text-align: center;
+  font-family: Arial;
+  font-weight: bolder;
+  color: #573cfa;
+}
+
+header {
+  background-color: #573cfa;
+}
+
+header img {
+  margin-bottom: 20px;
+  margin-top: 20px;
+  margin-left: 60px;
+}
+
+footer {
+  background-color: #573cfa;
+  margin-top: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+footer h6 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  color: whitesmoke;
+  font-family: Georgia;
+  font-weight: bold;
+}
+
+.btn-primary {
+  font-weight: 400;
+  color: whitesmoke;
+  background-color: #573cfa;
+  border-color: #573cfa;
+}
+
+.btn-primary:hover {
+  color: whitesmoke;
+  background-color: #f39c12;
+  border-color: #f39c12;
+}
+
+label {
+  font-weight: bolder;
+}
+
+.form-group {
+  margin: 5px 0px 15px 0px;
+}
+
+#prevLink {
+  text-align: center;
+  font-family: Arial;
+  font-weight: 400;
+  color: #573cfa;
+}
+
+.form-group {
+  margin-bottom: 1.5rem;
+}
+
+.form-label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #573cfa;
+}

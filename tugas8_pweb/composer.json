@@ -1,0 +1,17 @@
+{
+    "name": "adifa/pweb",
+    "description": "Tugas PWEB My SQL",
+    "authors": [
+        {
+            "name": "adifaw",
+            "email": "adifa.205025@mhs.its.ac.id"
+        }
+    ],
+    "require": {},
+    "scripts": {
+        "server": "php -S localhost:8080"
+    },
+    "config": {
+        "process-timeout":0
+      }
+}
